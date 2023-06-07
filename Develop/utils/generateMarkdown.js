@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
 }
 
-// returns an empty string if there is no license
+// returns an empty string for badge if there is no license
 function noBadge() {
   return "";
 }
@@ -14,7 +14,7 @@ console.log(noLicenseBadge);
 // If there is no license, return an empty string
 function renderLicenseLink(license) { }
 
-// returns an empty string if there is no license
+// returns an empty string for link if there is no license
 function noLink() {
   return "";
 }
@@ -25,7 +25,7 @@ console.log(noLicenseLink)
 // If there is no license, return an empty string
 function renderLicenseSection(license) { }
 
-// returns an empty string if there is no license
+// returns an empty string for section if there is no license
 function noSection() {
   return "";
 }

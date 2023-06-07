@@ -10,7 +10,7 @@ const questions = [
     "What are the installation instructions for this project?",
     // USAGE
     "What is the usage information for this project?",
-    // LICENSE (included in other js file?)
+    // LICENSE --> included in other js file?
     // CONTRIBUTING
     "What are the contribution guidelines for this project?",
     // TESTS
