@@ -3,21 +3,62 @@
 // TODO: Create an array of questions for user input
 const questions = [
     // TITLE
-    "What is your project title?",
+    {
+        type: 'input',
+        message: 'What is your project title?',
+        name: 'title',
+    },
+
+
     // DESCRIPTION
-    "What is your desired description for this project?",
+    {
+        type: 'input',
+        message: 'What is your desired description for this project?',
+        name: 'descr',
+    },
+
     // INSTALLATION
-    "What are the installation instructions for this project?",
+    {
+        type: 'input',
+        message: 'What are the installation instructions for this project?',
+        name: 'install',
+    },
+
     // USAGE
-    "What is the usage information for this project?",
+    {
+        type: 'input',
+        message: 'What is the usage information for this project?',
+        name: 'usage',
+    },
+
     // LICENSE --> included in other js file?
     // CONTRIBUTING
-    "What are the contribution guidelines for this project?",
+    {
+        type: 'input',
+        message: 'What are the contribution guidelines for this project?',
+        name: 'contribute',
+    },
+
     // TESTS
-    "What are the test instructions for this project?",
+    {
+        type: 'input',
+        message: 'What are the test instructions for this project?',
+        name: 'test',
+    },
+
+
     // QUESTIONS
-    "What is your GitHub username?",
-    "What is your email address?",
+    {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'username',
+    },
+
+    {
+        type: 'input',
+        message: 'What is your email address?',
+        name: 'email',
+    },
 
 
 ];
