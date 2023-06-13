@@ -1,5 +1,5 @@
-# b
-  [![license badge](https://img.shields.io/badge/License-MIT-blue)](license.md)
+# README Generator
+  
 
   ## Table of Contents
   + [Description](#description)
@@ -12,24 +12,25 @@
 
 
   ## Description
-   b
+   Welcome to the README generator! Creating a README for your project has never been easier with this automated generator that develops your README.md for you!
 
   ## Installation 
-  b
+  Visual Studio Code is required for installation. With Visual Studio Code you can invoke the generator from the terminal and answer the prompts accordingly. You will also need to download the readme-generator GitHub repository, found under my username, to use the application!
 
   ## Usage 
-  b
-
+  Here is a walkthrough video to show how to invoke the generator:
+  https://www.loom.com/share/ea73a119589645838c7add71d579996c
+  
   ## License 
-  MIT
+  none
 
   ## Contributing 
-  b 
+  To contribute to this readme generator, please clone the repository locally and commit any new changed on a separate branch.  
 
   ## Tests
-   b
+   
 
   ## Questions 
-  <a href="https://github.com/b">b</a>
-  <a href="mailto:b">b</a>
+  <a href="https://github.com/sefenydiaz">sefenydiaz</a>
+  <a href="mailto:sefenyd@gmail.com">sefenyd@gmail.com</a>
 
