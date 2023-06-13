@@ -18,8 +18,9 @@
   Visual Studio Code is required for installation. With Visual Studio Code you can invoke the generator from the terminal and answer the prompts accordingly. You will also need to download the readme-generator GitHub repository, found under my username, to use the application!
 
   ## Usage 
-  No documentation necessary.
-
+  Here is a walkthrough video to show how to invoke the generator:
+  https://www.loom.com/share/ea73a119589645838c7add71d579996c
+  
   ## License 
   none
 
